@@ -13,7 +13,7 @@
 		<run>
 
 			<include name="SMOKE"></include>
-			<exclude name="FUNCTIONAL"></exclude>
+			<include name="FUNCTIONAL"></include>
 			<include name="INTEGRATION"></include>
 
 		</run>
